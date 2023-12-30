@@ -1,0 +1,100 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+    
+#Height {
+    display: inline-block;
+    clear: right;
+    border: 2px solid azure;
+    margin-right: 20px;
+    background-color:khaki;
+}
+
+#Weight {
+    display: inline-block;
+    clear: right;
+    border: 3px solid azure;
+    background-color:khaki;
+
+}
+
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 400px;
+    border: 2px solid red;
+    box-sizing: border-box;
+    border-radius: 50px;
+    box-shadow: 20px;
+    border-width: 3px;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin: 30px;
+    border-radius: 10px;
+    text-decoration-line: underline;
+}
+
+h2 {
+    border: 2px solid blue;
+    margin: 30px;
+    border-radius: 10px;
+    border-spacing: 10px;
+    padding: 30px;
+    background-color: aqua;
+}
+
+#submit {
+    color: whitesmoke;
+    background-color: blue;
+    font-size: large;
+    border-radius: 60px;
+    border-width: 3px;
+    margin: 15px;
+    padding: 8px 100px 8px 100px;
+}
+
+#reset {
+    color: whitesmoke;
+    background-color: red;
+    font-size: large;
+    border-radius: 60px;
+    border-width: 3px;
+    margin: 15px;
+    padding: 8px 100px 8px 100px;
+    
+}
+
+fieldset {
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-width: 3px;
+    background-color: beige;
+}
+input{
+    box-sizing: content-box;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+}
+label{
+font-size: 1em;
+font-weight: bold;
+}
+div{
+background-color:darksalmon;
+    font-weight: bold;
+    background-size: cover;
+    box-shadow: 20px;
+    border-radius: 30px;
+    margin: 20px;
+    border: 2px solid red;
+    }
+    span{
+        color: blue;
+    }
